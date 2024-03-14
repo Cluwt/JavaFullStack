@@ -3,6 +3,7 @@ import java.math.* ;
 
 public class ClasseMath{
     public static void main(String[] args) {
+        
         // Declaração de variáveis:
         double x = 25.0;
         double y = 5.0;
